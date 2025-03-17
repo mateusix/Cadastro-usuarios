@@ -1,0 +1,14 @@
+/Users/mateusoliveira/CaseUsuarios/bin/Debug/net9.0/CaseUsuarios
+/Users/mateusoliveira/CaseUsuarios/bin/Debug/net9.0/CaseUsuarios.deps.json
+/Users/mateusoliveira/CaseUsuarios/bin/Debug/net9.0/CaseUsuarios.runtimeconfig.json
+/Users/mateusoliveira/CaseUsuarios/bin/Debug/net9.0/CaseUsuarios.dll
+/Users/mateusoliveira/CaseUsuarios/bin/Debug/net9.0/CaseUsuarios.pdb
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.AssemblyInfoInputs.cache
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.AssemblyInfo.cs
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.csproj.CoreCompileInputs.cache
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.dll
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/refint/CaseUsuarios.dll
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.pdb
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.genruntimeconfig.cache
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/ref/CaseUsuarios.dll
