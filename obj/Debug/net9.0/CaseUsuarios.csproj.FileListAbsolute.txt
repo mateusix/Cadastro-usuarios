@@ -12,3 +12,4 @@
 /Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.pdb
 /Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.genruntimeconfig.cache
 /Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/ref/CaseUsuarios.dll
+/Users/mateusoliveira/CaseUsuarios/obj/Debug/net9.0/CaseUsuarios.sourcelink.json

@@ -7,12 +7,13 @@
  *    - Buscar usuário pelo nome
  * 🔹 Desenvolvido por: Mateus Padilha de Oliveira
  * 🔹 Data: 17/03/2025
+ * 🔹 Repositório no GitHub: https://github.com/mateusix/Cadastro-usuarios
  */
 
 // COMO RODAR:
 // 1. Compile o código em um compilador C#.
 // 2. Execute o programa no terminal ou IDE de sua escolha.
-// 3. Se estiver usando VS Code: no terminal Digite o comando dotnet run
+// 3. Se estiver usando VS Code: no terminal Digite o comando "dotnet run"
 // 4. O programa exibirá um menu com as opções:
 //    - Cadastrar Usuário
 //    - Listar Usuários
